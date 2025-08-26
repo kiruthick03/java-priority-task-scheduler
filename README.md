@@ -5,3 +5,4 @@ A Java-based application for scheduling and executing user-defined tasks using a
 mvn clean package
 RUN THE APPLICATION 
 java -jar target/priority-task-scheduler-1.0.0.jar
+.
